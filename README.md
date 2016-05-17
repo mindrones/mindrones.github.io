@@ -1,1 +1,1 @@
-GitHub pages index
+GitHub projects pages index: [mindrones.github.io](http://mindrones.github.io/)
